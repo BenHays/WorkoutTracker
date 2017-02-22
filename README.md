@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+This App allows for the tracking of workouts. It is made with Rails and the React.JS Framework.
 
 * Ruby version
 
+Ruby 3.2.1
+Rails 5.0
+
 * System dependencies
 
-* Configuration
-
-* Database creation
+bundle install/update
 
 * Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+run "rails db:migrate"
